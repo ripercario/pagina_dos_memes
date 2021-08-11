@@ -1,0 +1,44 @@
+.titulo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: gold;
+    font-size: 50px;
+    background-color: gray;
+    text-align: center;
+    width: 20%;
+    height: 20%;
+    margin-left: 40%;
+    margin-right: 25%;
+}
+
+.CorDiv{
+    width: 45%;
+    height: 45%;
+    text-align: center;
+    background-color:whitesmoke;
+    margin-left: 27%;
+    margin-right: 25%;
+}
+.legendas{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:orangered;
+    font-size: 40px;
+}
+.dados{
+    color:black;
+    font-size: 20px;
+}
+
+.pags{
+    text-align: center;
+    font-size: 30px;
+    background-color: white;
+    margin-top: 5%;
+    width: 20%;
+    height: 20%;
+    margin-left: 40%;
+    margin-right: 25%;
+}
+
+.links{
+    font-size: 35px;
+}
